@@ -2,7 +2,7 @@
 ## This got Judges' Choice!
 
 You can play the game here:
-> [https://pararcana.itch.io/santas-sweatshop](https://lawsonlam.itch.io/santas-sweatshop)
+> https://lawsonlam.itch.io/santas-sweatshop
 
 This was my submission for the "Winter Melon Jam 2023", with a theme of "charm"!
 
